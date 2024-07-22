@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import {Route, Routes} from 'react-router-dom';
+import Menu from './components/Menu';
+import Inicio from './components/AboutMe';
+import Mangas from './components/Mangas';
+import Movies from './components/Movies';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import 'bootstrap-icons/font/bootstrap-icons.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+const App = () => {
+    return (
+        <>
+            <Menu/>
+            <div>
+                <Routes>
+                    <Route path='/' element={<Inicio></Inicio>}/>
+                    <Route path='/mangas' element={<Mangas></Mangas>}/>
+                    <Route path='/movies' element={<Movies></Movies>}/>
+                </Routes>
+            </div>
+        </>
+    )
 }
 
 export default App;
