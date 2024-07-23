@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6797ba9.css",
-    "main.js": "/static/js/main.3b446570.js",
+    "main.css": "/static/css/main.4f21696e.css",
+    "main.js": "/static/js/main.d95dda40.js",
     "static/media/Incident In A Ghostland.jpeg": "/static/media/Incident In A Ghostland.8b6df5219407cc883054.jpeg",
     "static/media/Paranormal Activity - Next Of Kin.jpeg": "/static/media/Paranormal Activity - Next Of Kin.8355a25db74b643fe840.jpeg",
     "static/media/Hansel & Gretel.jpeg": "/static/media/Hansel & Gretel.9263659cd5acb919b023.jpeg",
@@ -17,22 +17,24 @@
     "static/media/VHS.jpeg": "/static/media/VHS.5ad80f4f8a5019469c63.jpeg",
     "static/media/It Follows.jpeg": "/static/media/It Follows.3581ca470254b6f02c92.jpeg",
     "static/media/VHS 2.jpeg": "/static/media/VHS 2.d73c824a909d90e02527.jpeg",
+    "static/media/gojo.png": "/static/media/gojo.be82a7cc7e543fe20a8f.png",
     "static/media/The Autopsy Of Jane Doe.jpeg": "/static/media/The Autopsy Of Jane Doe.c5e641724a8a5b0271f2.jpeg",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/yo.jpeg": "/static/media/yo.eb04561533a6aac8a7e1.jpeg",
+    "static/media/isagi.png": "/static/media/isagi.0a79918e4a7b51612bf2.png",
     "static/media/X.jpeg": "/static/media/X.954e6d1791d742cfa911.jpeg",
     "static/media/Howling Village.jpeg": "/static/media/Howling Village.85ebb149498850ec9dba.jpeg",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/Annabelle 3.jpeg": "/static/media/Annabelle 3.c86eb02e64e0b13a23ed.jpeg",
-    "static/media/yo.jpg": "/static/media/yo.32e2b9ea062f0e748721.jpg",
     "static/media/movie-header.jpeg": "/static/media/movie-header.f5d5d2c0d08e7c34ac4b.jpeg",
     "static/media/Creep.jpeg": "/static/media/Creep.126579fcf4b71e497e07.jpeg",
     "static/media/Maleficio.jpeg": "/static/media/Maleficio.411378830082e2660a19.jpeg",
     "index.html": "/index.html",
-    "main.e6797ba9.css.map": "/static/css/main.e6797ba9.css.map",
-    "main.3b446570.js.map": "/static/js/main.3b446570.js.map"
+    "main.4f21696e.css.map": "/static/css/main.4f21696e.css.map",
+    "main.d95dda40.js.map": "/static/js/main.d95dda40.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6797ba9.css",
-    "static/js/main.3b446570.js"
+    "static/css/main.4f21696e.css",
+    "static/js/main.d95dda40.js"
   ]
 }
