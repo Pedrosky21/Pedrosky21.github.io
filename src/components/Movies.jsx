@@ -44,8 +44,8 @@ const Movies = () => {
     return (
         <>
             <div className="header-movies">
-                <h2 className="header-movies-title">Horror movies</h2>
                 <img className="header-image" src={movieHeader} alt="header" />
+                <h2 className="header-movies-title ms-2">Horror movies</h2>
                 <p className="header-text ms-4">A list of horror movies that I watched alone and rated cuz I felt like it. Rated from 1 to 6 stars.</p>
             </div>
 
