@@ -2,6 +2,10 @@ import movies_list from '../movies.json';
 
 import Movie from './Movie';
 
+import '../styles/movies-interface.css';
+
+import movieHeader from '../images/movie-header.jpeg';
+
 // Importar todas las imagenes
 function importAll(r) {
     let images = {};
@@ -39,8 +43,11 @@ const Movies = () => {
 
     return (
         <>
-            <h2 className="mt-3 text-center">Horror movies</h2>
-            <p className="ms-2">A list of horror movies that I watched alone and rated cuz I felt like it. They are rated from 1 to 6.</p>
+            <div className="header-movies">
+                <h2 className="header-movies-title">Horror movies</h2>
+                <img className="header-image" src={movieHeader} alt="header" />
+                <p className="header-text ms-4">A list of horror movies that I watched alone and rated cuz I felt like it. Rated from 1 to 6 stars.</p>
+            </div>
 
             <div className="container">
                 {chunkedData.map((row, rowIndex) => (

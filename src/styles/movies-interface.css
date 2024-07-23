@@ -1,0 +1,26 @@
+.header-movies {
+    background-color: rgb(16, 15, 15);
+    position: relative;
+}
+
+.header-movies-title {
+    color: white;
+    display: inline-block;
+}
+
+.header-image {
+    position: absolute;
+    height: 100%;
+    display: inline-block;
+    right: 0;
+    /*
+    La posicion es absoluta (relative la tiene el padre)
+    La altura es del 100% de su padre
+    El display inline-block para que con el header esten en la misma linea
+    Right 0 para que se guie por un espacio 0 desde la derecha
+    */
+}
+
+.header-text {
+    color: white;
+}
