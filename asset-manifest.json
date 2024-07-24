@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f21696e.css",
-    "main.js": "/static/js/main.d95dda40.js",
+    "main.css": "/static/css/main.79073f49.css",
+    "main.js": "/static/js/main.1c9a6162.js",
     "static/media/Incident In A Ghostland.jpeg": "/static/media/Incident In A Ghostland.8b6df5219407cc883054.jpeg",
     "static/media/Paranormal Activity - Next Of Kin.jpeg": "/static/media/Paranormal Activity - Next Of Kin.8355a25db74b643fe840.jpeg",
     "static/media/Hansel & Gretel.jpeg": "/static/media/Hansel & Gretel.9263659cd5acb919b023.jpeg",
     "static/media/Siniester.jpeg": "/static/media/Siniester.6649f13956015a33c6f3.jpeg",
     "static/media/The exorcist.jpeg": "/static/media/The exorcist.20492dab44e78db4233b.jpeg",
     "static/media/Hush.jpeg": "/static/media/Hush.458434688a02461ff3c1.jpeg",
+    "static/media/nagi-isagi.jpeg": "/static/media/nagi-isagi.7523d5fcc9d687e392bd.jpeg",
     "static/media/The Dark And The Wicked.jpeg": "/static/media/The Dark And The Wicked.e1e645405d7f3ad84879.jpeg",
     "static/media/Suspiria (2018).jpeg": "/static/media/Suspiria (2018).13b6194374984ef63658.jpeg",
     "static/media/Apt (2006).jpeg": "/static/media/Apt (2006).87ea4d33f4252bd9c6fa.jpeg",
     "static/media/The Grudge.jpeg": "/static/media/The Grudge.ce9894960cc3156af2c7.jpeg",
+    "static/media/nagi.jpeg": "/static/media/nagi.111ffc3a1e11ebab1b85.jpeg",
     "static/media/Hereditary.jpeg": "/static/media/Hereditary.a94ae11834c35527f01f.jpeg",
     "static/media/Malign.jpeg": "/static/media/Malign.752d3b9a18553287b100.jpeg",
     "static/media/VHS.jpeg": "/static/media/VHS.5ad80f4f8a5019469c63.jpeg",
@@ -19,7 +21,9 @@
     "static/media/VHS 2.jpeg": "/static/media/VHS 2.d73c824a909d90e02527.jpeg",
     "static/media/gojo.png": "/static/media/gojo.be82a7cc7e543fe20a8f.png",
     "static/media/The Autopsy Of Jane Doe.jpeg": "/static/media/The Autopsy Of Jane Doe.c5e641724a8a5b0271f2.jpeg",
+    "static/media/blue-lock-logo.png": "/static/media/blue-lock-logo.3d2b8d68c311f4c7091f.png",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/isagi-goal.jpeg": "/static/media/isagi-goal.91591a9ff75b0d66780d.jpeg",
     "static/media/yo.jpeg": "/static/media/yo.eb04561533a6aac8a7e1.jpeg",
     "static/media/isagi.png": "/static/media/isagi.0a79918e4a7b51612bf2.png",
     "static/media/X.jpeg": "/static/media/X.954e6d1791d742cfa911.jpeg",
@@ -30,11 +34,11 @@
     "static/media/Creep.jpeg": "/static/media/Creep.126579fcf4b71e497e07.jpeg",
     "static/media/Maleficio.jpeg": "/static/media/Maleficio.411378830082e2660a19.jpeg",
     "index.html": "/index.html",
-    "main.4f21696e.css.map": "/static/css/main.4f21696e.css.map",
-    "main.d95dda40.js.map": "/static/js/main.d95dda40.js.map"
+    "main.79073f49.css.map": "/static/css/main.79073f49.css.map",
+    "main.1c9a6162.js.map": "/static/js/main.1c9a6162.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f21696e.css",
-    "static/js/main.d95dda40.js"
+    "static/css/main.79073f49.css",
+    "static/js/main.1c9a6162.js"
   ]
 }
