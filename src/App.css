@@ -1,5 +1,5 @@
-body {
-    background-color: #212f3d; /* Color de fondo de todo el sitio */
+#contenido {
+    background-color: #212f3d;
     font-family: 'Nunito';
     color: white;
 }

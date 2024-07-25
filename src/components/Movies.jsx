@@ -1,6 +1,6 @@
 import movies_list from '../movies.json';
 
-import Movie from './Movie';
+import Movie from './Movie-Card';
 
 import '../styles/movies-interface.css';
 
@@ -53,7 +53,7 @@ const Movies = () => {
                 {chunkedData.map((row, rowIndex) => (
                     <div className="row" key={rowIndex}>
                         {row.map(mov => (
-                            <div className="col-md-3 mb-3 mt-3">
+                            <div className="col-sm-3 mb-3 mt-3">
                                 <Movie movie={mov} image={images[mov.title + '.jpeg']}></Movie>
                             </div>
                         ))}

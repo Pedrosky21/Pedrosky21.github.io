@@ -8,7 +8,7 @@ const Movie = ({ movie, image }) => {
 
     return (
         <div className="card movie-card">
-            <img src={image} alt={'titulo ' + movie.title} height='410'/>
+            <img className="card-img-top" src={image} alt={'titulo ' + movie.title} height='410'/>
             <h5 className="card-header">{movie.title}</h5>
             <div className="card-body">
                 {

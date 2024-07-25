@@ -1,4 +1,7 @@
 import yo from '../images/yo.jpeg';
+import bootstrapLogo from '../images/bootstrap-logo.png';
+import reactLogo from '../images/react-logo.svg';
+import javascriptLogo from '../images/logo-js.png';
 import blueLockLogo from '../images/blue-lock-logo.png'
 import isagi from '../images/isagi.png';
 import gojo from '../images/gojo.png';
@@ -35,6 +38,21 @@ const Inicio = () => {
             <div className="ms-3">
                 <p>I'm just a guy</p>
                 <p>The site it's just created (looks better on PC), later I'm gonna add the mangas I read and the videogames I play :)</p>
+            </div>
+            <h2 className="technologies-header mt-4">Technologies used</h2>
+            <div className="technologies container mt-5 mb-5">
+                <div>
+                    <img className="tec-logo" src={javascriptLogo} alt="js" />
+                    <p className="tec-text">JavaScript</p>
+                </div>
+                <div>
+                    <img className="tec-logo" src={reactLogo} alt="react" />
+                    <p className="tec-text">React</p>
+                </div>
+                <div>
+                    <img className="tec-logo" src={bootstrapLogo} alt="bootstrap" />
+                    <p className="tec-text">Bootstrap</p>
+                </div>
             </div>
             <div className="logo mt-3 mb-5">
                 <img id="blue-lock-logo" src={blueLockLogo} alt="blue lock logo" />

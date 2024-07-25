@@ -1,0 +1,97 @@
+[
+    {
+        "title": "Ajin",
+        "volumes": 17,
+        "finished": true
+    },
+    {
+        "title": "Blue Lock",
+        "volumes": 20,
+        "finished": false
+    },
+    {
+        "title": "Battle Royale",
+        "volumes": 8,
+        "finished": true
+    },
+    {
+        "title": "Berserk",
+        "volumes": 5,
+        "finished": false
+    },
+    {
+        "title": "Blood On The Tracks",
+        "volumes": 3,
+        "finished": false
+    },
+    {
+        "title": "Chainsaw Man",
+        "volumes": 11,
+        "finished": false
+    },
+    {
+        "title": "MierukoChan",
+        "volumes": 2,
+        "finished": false
+    },
+    {
+        "title": "My Hero Academia",
+        "volumes": 1,
+        "finished": false
+    },
+    {
+        "title": "Monster",
+        "volumes": 2,
+        "finished": false
+    },
+    {
+        "title": "Hellbound",
+        "volumes": 2,
+        "finished": true
+    },
+    {
+        "title": "Parasyte",
+        "volumes": 1,
+        "finished": false
+    },
+    {
+        "title": "I Am A Hero",
+        "volumes": 8,
+        "finished": false
+    },
+    {
+        "title": "Jujutsu Kaisen",
+        "volumes": 8,
+        "finished": false
+    },
+    {
+        "title": "Mushihime",
+        "volumes": 3,
+        "finished": true
+    },
+    {
+        "title": "Uzumaki",
+        "volumes": 1,
+        "finished": true
+    },
+    {
+        "title": "Tomie",
+        "volumes": 2,
+        "finished": true
+    },
+    {
+        "title": "One Punch Man",
+        "volumes": 23,
+        "finished": false
+    },
+    {
+        "title": "The Promised Neverland",
+        "volumes": 5,
+        "finished": false
+    },
+    {
+        "title": "Mirai Nikki",
+        "volumes": 2,
+        "finished": false
+    }
+]

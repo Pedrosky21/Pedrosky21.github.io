@@ -1,4 +1,4 @@
-import {Route, Routes} from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Menu from './components/Menu';
 import Inicio from './components/AboutMe';
 import Mangas from './components/Mangas';
@@ -13,13 +13,15 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // Necesaria a importar para
 const App = () => {
     return (
         <>
-            <Menu/>
-            <div>
-                <Routes>
-                    <Route path='/' element={<Inicio></Inicio>}/>
-                    <Route path='/mangas' element={<Mangas></Mangas>}/>
-                    <Route path='/movies' element={<Movies></Movies>}/>
-                </Routes>
+            <div id="contenido">
+                <Menu />
+                <div>
+                    <Routes>
+                        <Route path='/' element={<Inicio></Inicio>} />
+                        <Route path='/mangas' element={<Mangas></Mangas>} />
+                        <Route path='/movies' element={<Movies></Movies>} />
+                    </Routes>
+                </div>
             </div>
         </>
     )
