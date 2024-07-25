@@ -1,3 +1,7 @@
+.name {
+    margin-left: 1.5%;
+}
+
 .my-things {
     display: flex;
 }
@@ -41,15 +45,16 @@
 
 .icon-name {
     margin: 0px;
-    color: black;
-    font-family: 'Nunito';
+    color: white;
 }
 
 .logo {
     display: flex;
     justify-content: center;
-    border-top: solid #9c1066;
-    border-bottom: solid #9c1066;
+}
+
+#blue-lock-logo {
+    width: 50%;
 }
 
 .manga {
@@ -71,28 +76,22 @@
 }
 
 .carousel-caption {
-    margin-left: 15%;
-    margin-right: 15%;
     margin-bottom: 5%;
     width: 40%;
     border-radius: 5%;
     background-color: #9c1066;
 }
 
-.carousel-control-prev {
-    background-color: white;
-    margin-top: 35%;
-    margin-left: 1%;
-    width: 5%;
-    height: 6%;
-    border-radius: 40%;
+.carousel-control-prev-icon {
+    background-color: rgba(0, 0, 0);
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    padding: 25%;
 }
 
-.carousel-control-next {
-    background-color: white;
-    margin-top: 35%;
-    margin-right: 1%;
-    width: 5%;
-    height: 6%;
-    border-radius: 40%;
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0);
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    padding: 25%;
 }

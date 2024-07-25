@@ -10,7 +10,7 @@ import '../styles/about-me.css'
 const Inicio = () => {
     return (
         <>
-            <h1 className="ms-4">Pedro Arreguez</h1>
+            <h1 className="name">Pedro Arreguez</h1>
             <div className="my-things">
                 <div className="just-me ms-3">
                     <img className="my-picture" src={yo} alt="Imagen mia" />
@@ -37,7 +37,7 @@ const Inicio = () => {
                 <p>The site it's just created (looks better on PC), later I'm gonna add the mangas I read and the videogames I play :)</p>
             </div>
             <div className="logo mt-3 mb-5">
-                <img src={blueLockLogo} alt="blue lock logo" />
+                <img id="blue-lock-logo" src={blueLockLogo} alt="blue lock logo" />
             </div>
             <div className="manga">
                 <img className="manga-img" src={isagi} alt="isagi" />
@@ -50,21 +50,21 @@ const Inicio = () => {
                     <div className="carousel-inner">
                         <div className="carousel-item active">
                             <img src={isagiGoal} className="d-block w-100" alt="isagi goal" />
-                            <div className="carousel-caption d-none d-md-block">
+                            <div className="carousel-caption mx-auto d-none d-md-block">
                                 <h5>Isagi Yoichi</h5>
                                 <p>His goal during the match against U-20 Japan.</p>
                             </div>
                         </div>
                         <div className="carousel-item">
                             <img src={nagiIsagi} className="d-block w-100" alt="nagi and isagi" />
-                            <div className="carousel-caption d-none d-md-block">
+                            <div className="carousel-caption mx-auto d-none d-md-block">
                                 <h5>Isagi and Nagi</h5>
                                 <p>Their play during the U-20 match.</p>
                             </div>
                         </div>
                         <div className="carousel-item">
                             <img src={nagi} className="d-block w-100" alt="nagi" />
-                            <div className="carousel-caption d-none d-md-block">
+                            <div className="carousel-caption mx-auto d-none d-md-block">
                                 <h5>Nagi</h5>
                                 <p>My favorite panel of him.</p>
                             </div>
