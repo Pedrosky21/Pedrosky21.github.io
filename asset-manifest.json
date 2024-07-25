@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.79073f49.css",
-    "main.js": "/static/js/main.1c9a6162.js",
+    "main.css": "/static/css/main.3dbba0ff.css",
+    "main.js": "/static/js/main.c5333c6c.js",
     "static/media/Incident In A Ghostland.jpeg": "/static/media/Incident In A Ghostland.8b6df5219407cc883054.jpeg",
     "static/media/Paranormal Activity - Next Of Kin.jpeg": "/static/media/Paranormal Activity - Next Of Kin.8355a25db74b643fe840.jpeg",
     "static/media/Hansel & Gretel.jpeg": "/static/media/Hansel & Gretel.9263659cd5acb919b023.jpeg",
@@ -34,11 +34,11 @@
     "static/media/Creep.jpeg": "/static/media/Creep.126579fcf4b71e497e07.jpeg",
     "static/media/Maleficio.jpeg": "/static/media/Maleficio.411378830082e2660a19.jpeg",
     "index.html": "/index.html",
-    "main.79073f49.css.map": "/static/css/main.79073f49.css.map",
-    "main.1c9a6162.js.map": "/static/js/main.1c9a6162.js.map"
+    "main.3dbba0ff.css.map": "/static/css/main.3dbba0ff.css.map",
+    "main.c5333c6c.js.map": "/static/js/main.c5333c6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.79073f49.css",
-    "static/js/main.1c9a6162.js"
+    "static/css/main.3dbba0ff.css",
+    "static/js/main.c5333c6c.js"
   ]
 }
