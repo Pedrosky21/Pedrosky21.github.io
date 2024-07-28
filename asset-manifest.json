@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3aa9eb6.css",
-    "main.js": "/static/js/main.a42c22cc.js",
+    "main.css": "/static/css/main.d51e43bf.css",
+    "main.js": "/static/js/main.9d09e6c9.js",
     "static/media/Incident In A Ghostland.jpeg": "/static/media/Incident In A Ghostland.8b6df5219407cc883054.jpeg",
     "static/media/Paranormal Activity - Next Of Kin.jpeg": "/static/media/Paranormal Activity - Next Of Kin.8355a25db74b643fe840.jpeg",
     "static/media/Hansel & Gretel.jpeg": "/static/media/Hansel & Gretel.9263659cd5acb919b023.jpeg",
@@ -50,17 +50,19 @@
     "static/media/Blue Lock.jpg": "/static/media/Blue Lock.b3e5c9072ee2a3aedbf2.jpg",
     "static/media/Mirai Nikki.jpg": "/static/media/Mirai Nikki.146cd4ea29d228cb5e6a.jpg",
     "static/media/Monster.jpg": "/static/media/Monster.edaca42acebc9eee3118.jpg",
+    "static/media/logo-utn.png": "/static/media/logo-utn.8f259e4706cf98b6c0da.png",
     "static/media/I Am A Hero.jpg": "/static/media/I Am A Hero.030a0a06e23932de3e2f.jpg",
     "static/media/Ajin.jpg": "/static/media/Ajin.81fad5cc454124431cad.jpg",
     "static/media/logo-js.png": "/static/media/logo-js.72a8e5c0e426502d907a.png",
     "static/media/Maleficio.jpeg": "/static/media/Maleficio.411378830082e2660a19.jpeg",
+    "static/media/bandera.svg": "/static/media/bandera.f79ee67af3762f52c41f7216313bafc4.svg",
     "index.html": "/index.html",
     "static/media/react-logo.svg": "/static/media/react-logo.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.b3aa9eb6.css.map": "/static/css/main.b3aa9eb6.css.map",
-    "main.a42c22cc.js.map": "/static/js/main.a42c22cc.js.map"
+    "main.d51e43bf.css.map": "/static/css/main.d51e43bf.css.map",
+    "main.9d09e6c9.js.map": "/static/js/main.9d09e6c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3aa9eb6.css",
-    "static/js/main.a42c22cc.js"
+    "static/css/main.d51e43bf.css",
+    "static/js/main.9d09e6c9.js"
   ]
 }
