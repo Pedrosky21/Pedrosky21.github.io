@@ -1,18 +1,13 @@
-.name {
-    margin-left: 1.5%;
-}
-
 .my-things {
     display: flex;
 }
 
 .just-me {
-    width: 50%;
+    width: 40%;
 }
 
-.my-picture {
+.rrdd {
     width: 40%;
-    border-radius: 50%;
 }
 
 .rrdd-title {
@@ -20,8 +15,8 @@
 }
 
 .divider {
+    width: 20%;
     border-bottom: 1px solid #51127F;
-    width: 100%;
 }
 
 .link {

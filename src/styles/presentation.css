@@ -1,0 +1,56 @@
+.presentation {
+    background: linear-gradient(to right, #330255, 20%,#0d0115);
+}
+
+.top-card {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.mi-pic {
+    width: 20%;
+    border-radius: 50%;
+}
+
+.middle-line {
+    display: flex;
+    align-items: center;
+}
+
+.utn-img {
+    width: 4.5rem;
+    height: 2.5rem;
+    background-color: white;
+    border-radius: 5%;
+    border: 1px solid black;
+}
+
+.bandera-img {
+    width: 4.5rem;
+    height: 2.5rem;
+}
+
+.footer-mail {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.boton-contacto {
+    border: none;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boton-contacto:hover {
+    box-shadow: -1.5rem 0 4.5em #8912d5;
+    background-color: white;
+    background-image: linear-gradient(to right bottom, blue, purple);
+}
+
+.footer-mail {
+    width: 100%;
+}

@@ -1,4 +1,5 @@
-import yo from '../images/yo.jpeg';
+import PresentationCard from './PresentationCard';
+
 import bootstrapLogo from '../images/bootstrap-logo.png';
 import reactLogo from '../images/react-logo.svg';
 import javascriptLogo from '../images/logo-js.png';
@@ -13,12 +14,11 @@ import '../styles/about-me.css'
 const Inicio = () => {
     return (
         <>
-            <h1 className="name">Pedro Arreguez</h1>
-            <div className="my-things">
-                <div className="just-me ms-3">
-                    <img className="my-picture" src={yo} alt="Imagen mia" />
+            <div className="my-things row-sm">
+                <div className="just-me col mt-2 ms-3">
+                    <PresentationCard></PresentationCard>
                 </div>
-                <div className="rrdd ms-3 mb-3">
+                <div className="rrdd col mt-2 ms-5 mb-3">
                     <h2 className="rrdd-title">RRDD</h2>
                     <div className="divider"></div>
                     <a className="link" href="https://www.instagram.com/pedroarreguez" target="_blank" rel="noopener noreferrer">
@@ -35,11 +35,11 @@ const Inicio = () => {
                     </a>
                 </div>
             </div>
-            <div className="ms-3">
+            <div className="ms-3 mt-3">
                 <p>I'm just a guy</p>
                 <p>The site it's just created (looks better on PC), later I'm gonna add the mangas I read and the videogames I play :)</p>
             </div>
-            <h2 className="technologies-header mt-4">Technologies used</h2>
+            <h2 className="technologies-header mt-4">Technologies used in this site</h2>
             <div className="technologies container mt-5 mb-5">
                 <div>
                     <img className="tec-logo" src={javascriptLogo} alt="js" />
