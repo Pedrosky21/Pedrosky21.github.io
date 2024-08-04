@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d51e43bf.css",
-    "main.js": "/static/js/main.9d09e6c9.js",
+    "main.css": "/static/css/main.e990372c.css",
+    "main.js": "/static/js/main.f80ab67e.js",
     "static/media/Incident In A Ghostland.jpeg": "/static/media/Incident In A Ghostland.8b6df5219407cc883054.jpeg",
     "static/media/Paranormal Activity - Next Of Kin.jpeg": "/static/media/Paranormal Activity - Next Of Kin.8355a25db74b643fe840.jpeg",
     "static/media/Hansel & Gretel.jpeg": "/static/media/Hansel & Gretel.9263659cd5acb919b023.jpeg",
@@ -58,11 +58,11 @@
     "static/media/bandera.svg": "/static/media/bandera.f79ee67af3762f52c41f7216313bafc4.svg",
     "index.html": "/index.html",
     "static/media/react-logo.svg": "/static/media/react-logo.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.d51e43bf.css.map": "/static/css/main.d51e43bf.css.map",
-    "main.9d09e6c9.js.map": "/static/js/main.9d09e6c9.js.map"
+    "main.e990372c.css.map": "/static/css/main.e990372c.css.map",
+    "main.f80ab67e.js.map": "/static/js/main.f80ab67e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d51e43bf.css",
-    "static/js/main.9d09e6c9.js"
+    "static/css/main.e990372c.css",
+    "static/js/main.f80ab67e.js"
   ]
 }
