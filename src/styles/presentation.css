@@ -31,26 +31,28 @@
     height: 2.5rem;
 }
 
-.footer-mail {
-    display: flex;
+.boton-mail {
+    color: white !important;
+    text-decoration: none;
+    display: flex !important;
     align-items: center;
-    justify-content: start;
+    width: 40%;
 }
 
-.boton-contacto {
-    border: none;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.boton-contacto:hover {
+.boton-mail:hover {
     box-shadow: -1.5rem 0 4.5em #8912d5;
-    background-color: white;
     background-image: linear-gradient(to right bottom, blue, purple);
 }
 
-.footer-mail {
-    width: 100%;
+.boton-wpp {
+    color: white !important;
+    text-decoration: none;
+    display: flex !important;
+    align-items: center;
+    width: 40%;
+}
+
+.boton-wpp:hover {
+    box-shadow: -1.5rem 0 4.5em #8912d5;
+    background-image: linear-gradient(to right bottom, blue, purple);
 }

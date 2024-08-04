@@ -2,7 +2,8 @@ import mangas_list from '../mangas.json';
 
 import '../styles/mangas-interface.css';
 
-import Manga from './Manga-Card.jsx'
+import Manga from './Manga-Card.jsx';
+import BlueLock from './BlueLock.jsx';
 
 function importAll(r) {
     let images = {};
@@ -21,7 +22,7 @@ const Mangas = () => {
     return (
         <>
             <h2 className="ms-3">Mi collection</h2>
-            <p className="ms-4">There's more but I'm lazy</p>
+            <p className="ms-4">There's a few more that I'm gonna add later</p>
             <div className="container">
                 {chunkedData.map((row, rowIndex) => (
                     <div className="row ms-2 w-100" key={rowIndex}>
@@ -33,6 +34,7 @@ const Mangas = () => {
                     </div>
                 ))}
             </div>
+            <BlueLock></BlueLock>
         </>
     )
 }
